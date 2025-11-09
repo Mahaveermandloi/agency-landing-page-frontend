@@ -2,7 +2,7 @@
 
 This landing page was designed using Figma Community design and built with React and CSS. It is responsive design and can be viewed on desktop and mobile devices.
 
-🔗 See live demo ➡️ [here](https://nsafarova.github.io/landing-page-design/)
+🔗 See live demo ➡️ [here](https://agency-landing-page-frontend.vercel.app/)
 
 ## 🎨 Design Files
 
